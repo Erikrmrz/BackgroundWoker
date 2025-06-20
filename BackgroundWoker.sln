@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWoker", "BackgroundWoker\BackgroundWoker.csproj", "{F3F71D76-F795-4215-9739-76160D331C2A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciForm1", "FibonacciForm1\FibonacciForm1.csproj", "{ECC21D44-0DF1-4A32-81F6-00683972CBE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplitos", "Ejemplitos\Ejemplitos.csproj", "{63ED79CA-F79A-4E94-8572-983803D3AD72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{ECC21D44-0DF1-4A32-81F6-00683972CBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC21D44-0DF1-4A32-81F6-00683972CBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC21D44-0DF1-4A32-81F6-00683972CBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63ED79CA-F79A-4E94-8572-983803D3AD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ED79CA-F79A-4E94-8572-983803D3AD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ED79CA-F79A-4E94-8572-983803D3AD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ED79CA-F79A-4E94-8572-983803D3AD72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E5D39E-FB18-49E7-9A55-C1A6411096A8}
 	EndGlobalSection
 EndGlobal
